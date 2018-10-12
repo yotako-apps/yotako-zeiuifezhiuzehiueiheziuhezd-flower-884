@@ -1,0 +1,18 @@
+{
+    "yotako": {
+        "description": "Android Studio ready to use project automatically created by Yotako from design.",
+        "name": "yotako-android",
+        "version": "^1.0.0",
+        "yotako-version": "^1.0.0",
+        "author": "yotako - hello@yotako.io",
+        "license": "GPL-3.0",
+        "technologies": ["android"]
+    },
+    "stack": {
+        "android": {
+            "_meta": {
+                "_path": "./app/src/main/res/layout/"
+            }
+        }
+    }
+}

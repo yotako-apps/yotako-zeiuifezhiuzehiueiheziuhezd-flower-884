@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="customUrl" format="string" />
+    <attr name="cornerRadius" format="float" />
+    <attr name="border" format="float" />
+    <attr name="shapeColor" format="string" />
+    <attr name="originalHeight" format="integer"/>
+    <attr name="originalWidth" format="integer"/>
+    <attr name="borderColor" format="string" />
+    
+    <declare-styleable name="YotakoImageView">
+        <attr name="customUrl" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoImageButton">
+        <attr name="customUrl" />
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoConstraintLayout">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+        <attr name="borderColor" />
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoButton">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoCheckBox">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoCheckedTextView">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoCompoundButton">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoGridLayout">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoSearchView">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoStackView">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoTableLayout">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoTextView">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoView">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoViewGroup">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+    <declare-styleable name="YotakoEditText">
+        <attr name="cornerRadius" />
+        <attr name="border"  />
+        <attr name="shapeColor" />
+        <attr name="originalHeight"/>
+        <attr name="originalWidth"/>
+    </declare-styleable>
+    
+</resources>
